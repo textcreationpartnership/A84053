@@ -1,0 +1,290 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The second centurie. 1. Cornelius Holland, his father died in the Fleete for debt, ...</title>
+            <author>El., M., fl. 1648.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 25 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84053</idno>
+            <idno type="STC">Wing E317C</idno>
+            <idno type="STC">Thomason 669.f.13[22]</idno>
+            <idno type="EEBO-CITATION">99863984</idno>
+            <idno type="PROQUEST">99863984</idno>
+            <idno type="VID">162917</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84053)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162917)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 246:669f13[22])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The second centurie. 1. Cornelius Holland, his father died in the Fleete for debt, ...</title>
+                  <author>El., M., fl. 1648.</author>
+                  <author>Elsynge, Henry, 1598-1654, attributed name.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1648]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: M. El.; sometimes attributed to Henry Elsynge.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>A continuation of: A list of the names of the Members of the House of Commons.</note>
+                  <note>Annotation on Thomason copy: "Sept ye 28 1648".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term>Political corruption --  England --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-09</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-04</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-04</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:162917:1" rendition="simple:additions"/>
+            <head>The Second Centurie.</head>
+            <p n="1">1 <hi>CORNELIUS Holland,</hi> his father died in the Fleete for debt, and left him a poore boy in Court, waiting on Sir <hi>Henry Vane</hi> then Controller of the Princes houſe; hee is ſtill Sir <hi>H. Vanes</hi> Zanie: But now a cc-Commiſſioner with his Maſter for the Revenue of the King, Queene and Prince: Hee hath, with the helpe of his Maſter, made himſelfe Farmer of the Kings feeding—grounds at <hi>C<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ſlow</hi> in <hi>Buckinghamſhire</hi> (worth 1800. or 2000. l. <hi>per an.)</hi> at the Rent of 200. l. <hi>per an.</hi> which hee diſcounts: Hee is poſſeſſor of Somer<g ref="char:EOLhyphen"/>ſet-Houſe, where hee and his family lives: Hee is Keeper of Rich<g ref="char:EOLhyphen"/>mond Houſe for his Countrey-Retreate: Hee is Commiſſary for the Garriſons at White hall &amp; the Mues: He hath an Office in the Mint, Hee hath ten children, and lately gave 5000. l. with a daughter, after which rate the State muſt finde 5000. l. for portions.</p>
+            <p n="2">2 Sir <hi>Henry Vane ſenior,</hi> hath the Biſhop of <hi>Durbam's</hi> Mannor, Park and Demeaſnes of <hi>Evenwood:</hi> had given him 5000. l.: Is Chair-man for the King's, Queene's and Prince's, Revenue, the Epitomy where<g ref="char:EOLhyphen"/>of is Lord Treaſurer. His man <hi>Cozens</hi> is Clearke to the Committee, and gets 1500. or 2000. l <hi>per an.</hi> by it,
+<q>
+                  <l>And if the Man ſuch profits have,</l>
+                  <l>What then muſt hee that keepes the—</l>
+               </q>
+            </p>
+            <p n="3">3 Sir <hi>Henry Vane, junior,</hi> ſonne to the elder, Hath totally outed Sir <hi>William Ruſſell,</hi> and is ſole Treaſurer to the Navy, a place worth at leaſt 6000. l. <hi>per annum.</hi> in time of warre, eſpecially when the Lord Treaſurer as his friend; <hi>more when hee is his Father.</hi>
+            </p>
+            <p n="4">4 Sir <hi>Thomas Trenchard,</hi> had given him 1200. l. thus: Hee mar<g ref="char:EOLhyphen"/>ried his daughter to a Malignant, gave ſe<g ref="char:EOLhyphen"/>curity for payment of 1200. l. portion, beſide Parliamentary courteſies: got his ſonne in law ſequeſtred, diſcovers the debt, and hath it given him for his fidelity to the State. <hi>A very Parliamentary way to pay Portions.</hi>
+            </p>
+            <p n="5">5 <hi>John Trenchard,</hi> brother to Sir <hi>Thomas,</hi> but a better father in Lawe, Hee is Governor of <hi>Wa<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ham;</hi> Hee married two of his daughters to Maſter <hi>Bingham</hi> and Maſter <hi>Sid<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nham,</hi> hee procured them to bee made Collonels of horſe and foote, and Governors of ſeverall Garri<g ref="char:EOLhyphen"/>ſons, gets them to bee choſen Members of the Houſe of Commons, and ſo makes them free of his owne Trade by their Fathers Copy.</p>
+            <p n="6">6 * <hi>William Bingham,</hi> Coll. of horſe and foote, Governor of <hi>Poole,</hi> and had given him 1000. l.</p>
+            <p n="7">7 * <hi>John Sydenham</hi> Coll. of horſe and fooote, Governor of <hi>Way<g ref="char:EOLhyphen"/>mouth</hi> and <hi>Melcom—Regis,</hi> and Commander in chiefe of <hi>Dorſetſhire;</hi> had given him 1000. l.</p>
+            <p n="8">8 <hi>John Browne</hi> married Sir <hi>Thomas Trenchards</hi> ſiſter, is a prime Comm tree-man for the County, ſeized 1000. l. worth of the Stock and goods of Farmer <hi>Wades</hi> in <hi>Portland,</hi> the Committee quitted him of Ma<g ref="char:EOLhyphen"/>lignancy but could not his goods, being in the hands of a Member; ſo they are Malignant ſtill, and ſecur'd in Mr. <hi>Brownes</hi> hands.</p>
+            <p n="9">9 <hi>Richard Roſe</hi> hath the houſe and furniture of Maſter <hi>Bagley</hi> the Kings glaſier, which hee got thus. Hee and Maſter <hi>John Trenchard</hi> went to ſeverall houſes about the Strand to hyre lodgings for <hi>Malig<g ref="char:EOLhyphen"/>uants,</hi> gave good rates, but would have the beſt furniture; and they being Members of the houſe, would ſecure them; Maſter <hi>Bagleyes</hi> was one, Maſter <hi>Roſe</hi> cauſed it to bee Sequeſtred and got it to himſelfe; for which hee and Maſter <hi>Trenchard</hi> fell out: But <hi>Bagley</hi> (though an ho<g ref="char:EOLhyphen"/>neſt man) got not his goods againe; <hi>Which croſſes the Proverb.</hi>
+            </p>
+            <p n="10">10 <hi>Dennis Bond,</hi> a moſt inſolent woollen Draper, hee takes by his truſtees his Sonnes and Brother; one ſonne hee made Maſter of <hi>Trinity-hall</hi> in <hi>Cambridge,</hi> another Auditor of the Exciſe worth 500. l. <hi>per annum,</hi> and his brother Governour of <hi>Portland</hi> and Receiver of the Kings rents in <hi>Southampton</hi> and <hi>Somerſet.</hi>
+            </p>
+            <p n="11">11 <hi>John Glynn</hi> made Recorder of <hi>London,</hi> and Clearke of the Pells, in Sir <hi>Edward Warders</hi> place, worth 1000. l. <hi>per an.</hi> Hee hath made his father in law, Maſter <hi>Squib, Clarencieux</hi> Herauld, in Sir <hi>William Neve's</hi> place worth 800 l. <hi>per an.</hi> and hath made his creature and kinſman <hi>Folconbridge</hi> Controuler of the exciſe, worth 500. l. <hi>per an.</hi> and alſo receiver generall of the King, Queen, &amp; Princes Revenue worth 2000. l. <hi>per an.</hi> Mr. <hi>Glynne</hi> confer'd, on his Coſen <hi>Lawrence Swetnam</hi> the wine Office, worth 300. l. <hi>per an.</hi> &amp; made him Receiver of the firſt Fruits, worth 200 l. <hi>per an.</hi> But Mr <hi>Swetnam</hi> dying Mr. <hi>Glyn</hi> got both places for his Brother in Law Mr. that they might not go out of the tribe.</p>
+            <p n="12">12 <hi>John Bell,</hi> Apothecary to the body Politique, hath as little gi<g ref="char:EOLhyphen"/>ven him as hee deſerves in honeſt times; but to preſerve the Priveledge of the houſe; is protected for what hee can get; hee is a truſtee for the poore of <hi>Weſtminſtor:</hi> Received of Mr. <hi>Antrobus</hi> and others money for the poore, was ſued for an Accompt, ſaid he could not anſwere without breach of priviledge of Parliament, and that he durſt not; by which m<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>anes Parliament-men are the ſureſt keepers of a truſt.</p>
+            <p n="13">13 Sir <hi>Walter Earle,</hi> Collonel of horſe, and Lieutenant of the Ordnance, in Sir <hi>John Heydons</hi> place, worth 1000. l. <hi>per an.</hi> in time of Peace; but in time of Warre, worth 5000. l. <hi>per an.</hi>
+            </p>
+            <p n="14">14 <hi>Thomas Earle,</hi> ſonne to Sir <hi>Walter,</hi> Captaine of a Troope of horſe; ſeldom attends the houſe, but followes his buſineſſe in the Coun<g ref="char:EOLhyphen"/>trey, where hee is a great Committee-man; puniſheth his, and his fa<g ref="char:EOLhyphen"/>thers enimies, and rewards himſelfe and his friends.</p>
+            <p n="15">15 <hi>Thomas Atkins,</hi> Alderman, as honeſt as ſweet; he was a Treaſurer at Warre, and lick't his fingers.</p>
+            <p n="16">16 <hi>Gregory Clemens</hi> Marchant in both ſenſes, hath beene a mem<g ref="char:EOLhyphen"/>ber two monthes, &amp; proteſts he hath ſcarce cleared the purchaſe money, which was but 60. l. but ſaith Trading will mend.</p>
+            <p n="17">17 <hi>John Rowles</hi> Marchant, hath given to him 1500. l. out of Sir <hi>John Worſenhams</hi> eſtate.</p>
+            <p n="18">18 Sir <hi>Thomas Jarvis,</hi> hath Mr. <hi>Webbs</hi> place in <hi>Richmond</hi> little Parke.</p>
+            <p n="19">19 <hi>Edward Aſhe</hi> Woollendraper, Treaſurer for the providing of Clothes for the Iriſh Souldiers.</p>
+            <p n="20">20 Sir <hi>John Danvers,</hi> Collonel after the death of his brother, the Earle of <hi>Danby,</hi> he proved him to bee a Malignant, and by Parliamen<g ref="char:EOLhyphen"/>tary proceedings ovorthrew his brothers will, outed his ſiſter <hi>Gargrave,</hi> and Sir <hi>Peter Osborne</hi> of the State, worth 30000. l. and hath it.</p>
+            <p n="21">21 * <hi>Thomas Harriſon</hi> Major, when the Warres began hee was Servant to Mr. <hi>Hulke</hi> an Atturney at Law.</p>
+            <p n="22">22 <hi>Edmond Dunes,</hi> Conſtable of <hi>Wallingford-</hi>Caſtle.</p>
+            <p n="23">23 Sir <hi>Robert Harlow,</hi> Mr. of the Mint, in the Place of Sir <hi>Ralph Freeman,</hi> and Sir <hi>Thomas Alesbury:</hi> Before the Parliament was much indebted, very poore, and could not pay, now hee is rich and will not pay.</p>
+            <p n="24">24 <hi>Edward Wingate,</hi> Captaine of a Troope of horſe.</p>
+            <p n="25">25 <hi>Thomas Grantham,</hi> Collonel of horſe.</p>
+            <p n="26">26 * <hi>William Aſhcough,</hi> Captaine of a Troope of horſe.</p>
+            <p n="27">27 <hi>James Fienn<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>,</hi> Captaine of a Troope of horſe.</p>
+            <p n="28">28 Sir <hi>John Merticke,</hi> Major Generall.</p>
+            <p n="29">29 <hi>Henry Herbert,</hi> given him 3000. l. and the plunder of <hi>Ragland</hi> Caſtle.</p>
+            <p n="30">30 * <hi>Fenwick,</hi> 500. l. ſo ſmall a ſome deſerves not a Chriſtian name.</p>
+            <p n="31">31 <hi>Gilbert Millington,</hi> given him 1000. l.</p>
+            <p n="32">32 Sir <hi>Henry Chomley,</hi> Collonel. of horſe, and the zealous Com<g ref="char:EOLhyphen"/>miſſioner of <hi>Yorkeſhire.</hi>
+            </p>
+            <p n="33">33 <hi>Phillip</hi> Lord <hi>Liſtle,</hi> Generall for <hi>Ireland</hi> had an allowance of 10. l. <hi>per diem,</hi> as my Lord of <hi>Eſſex</hi> had, beſides pay for his Regi<g ref="char:EOLhyphen"/>ment and came ſafe of at the Battell of <hi>Roſſe.</hi>
+            </p>
+            <p n="34">34 * <hi>Arthur Owen,</hi> Collonel.</p>
+            <p n="35">35 <hi>Henry Darly,</hi>
+            </p>
+            <p n="36">36 <hi>Richard Darly,</hi> Given to their father for them 5000 l.</p>
+            <p n="37">37 <hi>Thomas Toll,</hi> hath the Cuſtomers place of <hi>Linne</hi> in his ſonnes name worth 300. l. <hi>per an.</hi> yet it is anothers by <hi>Grant.</hi>
+            </p>
+            <p n="38">38 * <hi>Elize. Grimes,</hi> Captaine.</p>
+            <p n="39">39 <hi>Thomas Hatcher,</hi> Collonel, Governour of <hi>Lincolne,</hi> and plun<g ref="char:EOLhyphen"/>der Maſter Generall of the County.</p>
+            <p n="40">40 * <hi>Thomas Liſter,</hi> Lieut-col. and Deputy Governour of <hi>Lincolne.</hi>
+            </p>
+            <p n="41">41 Sir <hi>Chriſtopher Wraye,</hi> Collonel, ſince dead.</p>
+            <p n="42">42 * <hi>William Wraye,</hi> his ſonne Collonel.</p>
+            <p n="43">43 <hi>Henry Pelham,</hi> Recorder of <hi>Lincolne,</hi> in the place of Sir <hi>Charles Daliſon.</hi>
+            </p>
+            <p n="44">44 Sir <hi>William Armin,</hi> Agent in <hi>Scotland</hi> for the State.</p>
+            <p n="45">45 <hi>William Armin;</hi> his ſonne Collonel.</p>
+            <p n="46">46 <hi>Richard Barveyes,</hi> Collonel, Governour of <hi>Carlile:</hi>
+            </p>
+            <p n="47">47 * <hi>Francis Ruſſel,</hi> Collonel, Governour of <hi>Cambridge.</hi>
+            </p>
+            <p n="48">48 <hi>Richard Shuttleworth,</hi> Collonel, and hath very many of the Recuſants Lands in <hi>Lancaſhire,</hi> in Sequeſtration; himſelfe being the chiefe Commiſſioner for Sequeſtrations.</p>
+            <p n="49">49 <hi>John Hampden,</hi> Collonel of foote; killed at <hi>Chalgrove field,</hi> where hee made his firſt muſter.</p>
+            <p n="50">50 <hi>Arthur Goodwine,</hi> Collonel of foote, ſince dead.</p>
+            <p n="51">51 <hi>Anthony Nicolls</hi> Mr. <hi>Pyms</hi> nephew; by him is made paymaſter to the Meſſengers of Intelligence; by which in a ſhorttime hee put him<g ref="char:EOLhyphen"/>ſelf into a Parliamentary equipage of Coach, horſe and attendants, got mony, and contrary to the priviledge of Parliament payed his fathers debts; but was afterwards ſuſpended the houſe.</p>
+            <p n="52">52 <hi>Robert Cecill,</hi> ſon to the E. of <hi>Salisbury,</hi> Col. of horſe, procured one <hi>Collins</hi> to be made Auditor in chief for the Revenues of the King, Queen and Prince, worth 2000 l. <hi>per an.</hi> but in truſt for the Col.</p>
+            <p n="53">53 <hi>VVilliam VVhite</hi> Collonel, and was Treaſurer at Warre to the Army in the North, under the command of the old Lord <hi>Fairfax.</hi>
+            </p>
+            <p n="54">54 * <hi>Francis Bacon,</hi> Recorder of <hi>Ipſwith</hi> in the place of Mr. <hi>Laney.</hi>
+            </p>
+            <p n="55">55 <hi>Alexander Popham,</hi> Collonel.</p>
+            <p n="56">56 * <hi>Edward Popham,</hi> Collonel.</p>
+            <p n="57">57 * <hi>Bramton Gurdon,</hi> Collonel.</p>
+            <p n="58">58 * Sir <hi>Thomas Barnardiſton,</hi> Collonel.</p>
+            <p n="59">59 * <hi>George Fleetewood,</hi> Collonel.</p>
+            <p n="60">60 Serjeant <hi>Wilde, Juſticiarius itinerans, anglice;</hi> journey-man judge, had after the hanging of Capraine <hi>Burlye</hi> 1000. l. out of the privy purſe of <hi>Darby-Houſe:</hi> 'tis thought he afforded a great penniworth in his ſervice; which another would not have done for 10000. l. and it is affirmed hee had 1000. l. more, upon the acquitall of Major <hi>Rolfe;</hi> ſo it is all one to him whether hee hangs, or he hangs not.</p>
+            <div type="document">
+               <head>A LIST Of ſuch Aldermen, and Common-Councell-men, as have great profits, by the continuance of the <hi>Warre, Exciſe, Taxes,</hi> and proceedings of the two houſes of <hi>Parliament.</hi>
+               </head>
+               <p n="1">1 <hi>JOHN VVarner,</hi> Lord Major before his time: One of the Treaſurers at Warre; hath three pence a pound for what hee receives in, and as much by Ordinance for what hee payes out, beſides great gratuities to helpe men to their monies, and buyes good penni<g ref="char:EOLhyphen"/>worths of bad debts, then payes himſelfe: Hee is alſo Treaſurer for receipt of all monies that were due upon the Ordinance of the third of <hi>Auguſt</hi> 1643. and by the Ordinance of the 18. of <hi>Auguſt</hi> 1643. hee is made Treaſurer for lone money. <hi>Judas</hi> carried but one bag and is ſaid to bee a theefe. <hi>Warner</hi> thou ſeeſt hath three but my modeſty will not ſay ſay ſo of him, yet hee hath purchaſed at eaſy rates the Arch Biſhop of <hi>Yorkes</hi> beſt houſe the Caſtle and Mannour of <hi>Caiwood,</hi> but hee is one of the new Militia for <hi>London,</hi> and therefore the City forces muſt juſtify whatſoever hee dooth.</p>
+               <p n="2">2 Sir <hi>John Wollaſton,</hi> Alderman, at firſt hee was one of the Trea<g ref="char:EOLhyphen"/>ſurers for plate &amp;c. a Treaſurer at Warre Treaſurer for lone money, hee is Say—Maſter of the Mint; A truſtee for ſafe of Biſhops lands, and hath bought the Biſhop of <hi>Londons</hi> land at <hi>Highgate,</hi> and hee is one of the new Militia.</p>
+               <p n="3">3 <hi>William Gibs,</hi> Alderman, was a melter of the <hi>Guildhall</hi> plate and bodkins by which hee got 7. or 8000. l. he was one of the Treaſurers for 200000. l. to pay the Scots; which was done in <hi>Earemarked halfe-Crownes,</hi> call'd <hi>Gibiſts:</hi> Hee is a truſtee for Biſhops lands, and Trea<g ref="char:EOLhyphen"/>ſurer for Rents and money raiſed by them; and for what hee receives and what hee payes, hath 1. d. <hi>per pound</hi> allowed by Ordinance beſides what hee allowes himſelfe; hee alſo is one of the new Militia becauſe hee muſt ſtand upon his guard.</p>
+               <p n="4">4 <hi>John Fowkes,</hi> Alderman, hee was a Commiſſioner for the Cuſtomes; refuſed to account upon oath, becauſe his tender conſcience might not diſcover ought againſt his profit; hee hath reformed (cheated is obſolete) Jewes and Gentles, Papiſt and Proteſtant; for the Jewes hee ſaieth hee may under the Goſpell, as well borrow their car<g ref="char:EOLhyphen"/>rings, as they under the Law did the Egyptians; his Chriſtian refor<g ref="char:EOLhyphen"/>mation would fill as much paper as the Declarations and Ordinances of the houſes: for forraigne Reformation, enquire of <hi>Maddock Sawes,</hi> a Greeke of <hi>Zant,</hi> for whom hee was Factor; for home Reformation, you may learne from Mr. <hi>John Plumpton, Thomas Milſoy,</hi> Mr. <hi>Clearke</hi> a Cooper Mrs. <hi>
+                     <gap reason="illegible: blotted" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eadell</hi> &amp;c. all whom he hath reformed, he is ſo terrible in the City, that at his name children hide theire nuts and apples fearing a reformation: he was treaſurer for payment of Waggoners, hee is a truſtee for Biſhops Lands and controwler of accompt for them, had firſt 200. l. <hi>per annum,</hi> and after by an additionall Ordinance 300. l. a yeare more, ſtanding fee, and were it more the K. deſerves it.</p>
+               <p n="5">5 <hi>Tho. Atkins,</hi> Alderman, is a Member of the Houſe of Commons, and the Treaſurer at warre that lick't his fingers; as before.</p>
+               <p n="6">6 <hi>Iſaac Pennington,</hi> Alderman, a member of the Houſe of Commons, while Lord Major hee got much money by paſſes out of towne, more by turning men out of their places, for pretended malignancy, and putting others into them: Hee was Lievetenant of the Tower of <hi>London:</hi> Hee was truſted by Sir <hi>John Pennington</hi> with 6000 l, which hee diſcover'd, begg'd and had it: By priviledge of Parliament hee is protected againſt creditors and therefore will not pay debts; yet hath bought ſtore of the Biſhops lands.</p>
+               <p n="7">7 <hi>Francis Packe</hi> Alderman, Commiſſioner for cuſtomes, treaſurer at Warre hath 3. d. <hi>per pound</hi> for all money paid to him or received from him, hath bought the Biſhop of <hi>Lincolnes</hi> Mannor, and houſe at <hi>Bugden;</hi> and one of the new Militia.</p>
+               <p n="8">8 <hi>Thomas Andrewes,</hi> Alderman before the Parliament, a great dealer in projects was treaſurer for the plate and money brought into <hi>Guild-Hall,</hi> hee is treaſurer at Warre, hath 3. d. <hi>per</hi> pound as others, and was a Commiſſioner for cuſtomes.</p>
+               <p n="9">9 <hi>Samuell Avery,</hi> Alderman, a Commiſſioner for the cuſtomes, a treaſurer for ſepueſtrations, and a truſtee for ſale of Biſhops lands.</p>
+               <p n="10">10 <hi>Thomas Culham,</hi> Alderman, Commiſſioner for exciſe worth 1200. l. <hi>per annum.</hi>
+               </p>
+               <p n="11">11 <hi>John Kenrick,</hi> Alderman, Commiſſioner for exciſe worth 1200. l.</p>
+               <p n="12">12 <hi>Thomas Foote,</hi> Alderman, Commiſſioner for exciſe worth 1200. l.</p>
+               <p n="13">13 <hi>Sim. Edmons,</hi> Alderman, Commiſſioner for exciſe worth 1200. l. <hi>per annum.</hi>
+               </p>
+               <p n="14">14 <hi>John Langham,</hi> Alderman, treaſurer for the exciſe, and as Al<g ref="char:EOLhyphen"/>derman <hi>Fowke,</hi> treaſurer for payment of Waggoners, and a truſtee for Biſhops lands.</p>
+               <p n="15">15 <hi>Owen Roe,</hi> Lieutenant Collonel, keeper of the Magazine of ſtore; received 5000. l. to provide Armes, not yet accounted for; one of the new Militia.</p>
+               <p n="16">16 <hi>Walter Boothby,</hi> Commiſſioner for the cuſtomes.</p>
+               <p n="17">17 <hi>Robert Manwaring,</hi> Collonell, Regiſter accountant for moneyes raiſed by Biſhops lands, hath a ſtanding fee of 200. l. <hi>per annum.</hi>
+               </p>
+               <p n="18">18 <hi>John Dethwicke,</hi> a treaſurer at Warre and hath 3. d. <hi>per</hi> pound for all money received by him and 3. d. <hi>per</hi> pound for what hee payes.</p>
+               <p n="19">19 <hi>Edward Hooker,</hi> Collonell.</p>
+               <p n="20">20 <hi>Natheniel Campsfield,</hi> Lievetenant-Collonell.</p>
+               <p n="21">21 <hi>Richard Chiverton,</hi> a Receiver of one <hi>per cent,</hi> of Merchants goods for redemption of Captives.</p>
+               <p n="22">22 <hi>Richard Hill,</hi> likewiſe a receiver of one <hi>per cent,</hi> of Merchants goods for redemption of Captives,</p>
+               <p n="23">23 <hi>Stephen Eaſtwick,</hi> a truſtee for ſale of Biſhops lands, former<g ref="char:EOLhyphen"/>ly a Commiſſioner for the Cuſtomes, one of the new Milicia, and hath gotten a great eſtate ſince this Parliament.</p>
+               <p n="24">24 <hi>James Ruſſel,</hi> a truſtee for ſale of Biſhops lands, one of the new Militia, formerly a Commiſſioner for the Cuſtomes.</p>
+               <p n="25">25 <hi>John Bellamy,</hi>
+               </p>
+               <p n="26">26 <hi>Thomas Arnold.</hi>
+               </p>
+               <p n="27">27 <hi>Richard Glide.</hi>
+               </p>
+               <p n="28">28 <hi>John Babington.</hi>
+               </p>
+               <p n="29">29 <hi>Richard Vennor,</hi> Captaine.</p>
+               <p n="30">30 <hi>Robert Meade.</hi>
+               </p>
+               <p n="31">31 <hi>James ſtory;</hi> Theſe ſeven laſt paſt are truſtees for ſale of Biſhops lands.</p>
+               <p n="32">32 <hi>William Antrobus.</hi>
+               </p>
+               <p n="33">33 <hi>Richard Turner.</hi>
+               </p>
+               <p n="34">34 <hi>Thomas Brumfeild.</hi>
+               </p>
+               <p n="35">35 <hi>Edward Bellamy.</hi>
+               </p>
+               <p n="36">36 <hi>Hugh Norris.</hi>
+               </p>
+               <p n="37">37 <hi>Nathaniell Hall.</hi>
+               </p>
+               <p n="38">38 <hi>Peter Jones.</hi>
+               </p>
+               <p n="39">39 <hi>Thomas Blackwell,</hi> treaſurer at Weavers hall.</p>
+               <p n="40">40 <hi>John Hayes.</hi>
+               </p>
+               <p>
+                  <hi>Theſe are all Common Councell-men, and have ſuch imployments as thou ſeeſt, and have beſides beene doublers of lone moneys, and buy<g ref="char:EOLhyphen"/>ers of others lones at 9. and 10. s. in the pound; receive their full intereſt at</hi> 8 l. per centum, <hi>out of the exciſe, and their principall in good penniworths out of Biſhops lands, buying</hi> 6000. l. <hi>worth of land for</hi> 1000. l. <hi>in arreares, or lone mony which they bought for</hi> 4. <hi>or</hi> 500. l. <hi>The benefit of which bargaines, is ſo great, both to Parliament—men, Souldier and Citizen; as ('tis feared) they will not admit of the Kings offer to repay them their purchaſe money, and preſerve the Church Land for Church maintenance, but rather breake the</hi> Treary, <hi>continue the</hi> Army, Exciſe, Taxes; <hi>their imployment, and our Ruine, which, God Forbid.</hi>
+               </p>
+               <p>THAT thou maiſt know, Reader, the benefit of Military Officers, I have thought fit to ſet down their ſeverall payes according to the eſtabliſhment of the Army of my Lord of <hi>Eſſex, viz:</hi> A Collonell of foote 1 l. 10. s. the day, which amounts to 42 l. the moneth. A Lievetenant-Collonell 15 s. the day, which amounts to 21 l. the moneth. A Serjant Major 9 s. the day, which amounts to 12 l. 12 s. the moneth. A Captaine 15 s. the day, which amounts to 21 l. the moneth. A Collonell of horſe 1 l. 10 s. the day, which amounts to 42 l. the moneth for himſelfe; and for ſix horſes 1 l. 1 s. the day, which amounts to 29 l. 8 s. the moneth. A Lieutenant Collonell of horſe 15 s. the day, which amounts to 21 l. the moneth. A Captaine of horſe 1 l. 4 s. the day, which amounts to 33 l. the moneth; and for ſix horſes 1 l. 1 s. the day, which amounts to 29 l. 8 s. the moneth; in all 52 l. 8 s. the moneth for his owne perſo<g ref="char:EOLhyphen"/>nall entertainement; beſides falſe muſters: And thou muſt know, that every Collonel, Lieutenant Collonell, and Major doth receive pay for a Captaine, beſides his pay as a field Officer, ſo that a Collonell received monethly 42 l. as Collonell, and 21 l. as Captaine, and 29 l. for ſix horſes; in all 94 l. the moneth, beſides hee receives pay for his whole Company which ſhould bee 120. men in a foote Compay, the pay whereof is 158 l. 4 s. the moneth while his Company perhaps is not 60. men. But the monthly entertainement of a troope of horſe was 349 l. 6 s. and advance money to raiſe regiments for every Company 390 l. but more for a troope. This good pay plunder and Free-quarter, made very many members of both houſes take the imploy<g ref="char:EOLhyphen"/>ment, ſo that of 19. Regiments which were raiſed at firſt 16. of them were Commanded by members of both houſes <hi>viz.</hi>
+               </p>
+               <p>Earle of <hi>Stamford,</hi> Earle of <hi>Peterborough, viſcount Say</hi> and <hi>Seale, viſcount Mandivile</hi> Lord <hi>Roberts,</hi> Lord <hi>Brooke,</hi> Lord <hi>Rochford,</hi> Lord <hi>St. Johns,</hi> Lord <hi>Wharton,</hi> Mr. <hi>D Hollis,</hi> Sir <hi>William Conſtable,</hi> Sir <hi>Henry Chomly, John Hampden, Arthur Goodwine, Thomas Grantham,</hi> Sir <hi>John Merrick,</hi> and divers of theſe beſides had troops of horſes, ſome members put their ſons into Command, but themſelves took the pay, the Lord <hi>Say</hi> received for 13. moneths, from the 30. of <hi>July</hi> 1642. to the 26. of <hi>July</hi> following 9081 l. 16 s. being the pay for the two troopes of Mr. <hi>James Fiennis</hi> and <hi>Francis Fiennis</hi> his ſonnes; Mr. <hi>Pym</hi> for the ſame moneths received for his ſonne <hi>Alexanders</hi> troope 45 40 l. 18 s. although his ſonne never had 26. men in his troope beſides Officers. Thus thou ſeeſt why our Loans, taxes, exciſe, and ſequeſtrations are continued, how they and Biſhops lands are devoured; and yet neither the Army nor Parliament men Satisfied.</p>
+            </div>
+         </div>
+         <div type="to_the_reader">
+            <p>
+               <hi>READER I intended before this time to have given thee this</hi> Century <hi>as promiſed, and alſo a Catalogue of ſuch of the Aldermen, Common-Councell, and Militia-men of</hi> London <hi>as re<g ref="char:EOLhyphen"/>ceive pay and profit by the continuance of the</hi> Exciſe, Impoſitions, Warre <hi>and</hi> Diſcord <hi>betweene the King and His houſes of Parliament, that the world might know the reaſon of ſuch</hi> Votes <hi>and</hi> Actions <hi>as promote the</hi> Warre, <hi>prolong our</hi> Payments, <hi>detarde the Kings</hi> Returne, <hi>obſtruct our</hi> Peace <hi>and</hi> Happineſſe; <hi>but beſides my weekely imployment (which thou knoweſt) I have beene ne<g ref="char:EOLhyphen"/>ceſſitated (daunger approaching) to remove my quarter before</hi> Michaelmas, <hi>to my great trouble and hindrance; yet that thou mayeſt ſee I intended what I promiſed accept this Motly-</hi>Century; <hi>not that I will defrand thee of any one Parliament man or Citizen, if (as formerly) I may bee connived at in the peruſall of the Journall-bookes, and bookes of the Committees.</hi>
+            </p>
+            <closer>
+               <signed>M. El.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
